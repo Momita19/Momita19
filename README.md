@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Momita19
-I am a AI/ML & CV engineer, follow me for exploring the vast AI.
+- ✨ I'm a AI/ML & CV engineer, follow me for exploring the vast AI.
 - 👀 I’m interested in Artificial intelligence and Machine Learning
 - 🌱 I’m currently learning Data structures and Backend development
 - 💞️ I’m looking to collaborate on ...
