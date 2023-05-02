@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=momita19&amp;theme=transparent&amp;border_radius=7&amp;card_width=500" alt="GitHub Streak">
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momita19" alt="Top Langs">
