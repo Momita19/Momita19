@@ -29,7 +29,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://streak-stats.demolab.com?user=momita19&amp;theme=transparent&amp;border_radius=7&amp;card_width=500" alt="GitHub Streak">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momita19" alt="Top Langs">
-<div>
+
+
+<div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api?username=momita19&amp;theme=transparent&amp;show_icons=true" alt="Momita&#19;s GitHub stats"></p>
   </div>
+  
+  
+  
+---
+
+### :fire: My Languages :
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momita19" alt="Top Langs">
