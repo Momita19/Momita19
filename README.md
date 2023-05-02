@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BCBF7&width=435&lines=Hi!+I+am+Momita+Pal;I+do+web+development;and+cv+ml+deployment" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7BCBF7&center=true&width=435&lines=Hi!+I+am+Momita+Pal;I+do+web+development;and+cv+ml+deployment" alt="Typing SVG" /></a>
