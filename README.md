@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
+<div align = "center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=momita19&theme=highcontrast&border_radius=7&card_width=600)](https://git.io/streak-stats)
-
+</div>
 
