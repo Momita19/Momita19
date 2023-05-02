@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-<img src="https://streak-stats.demolab.com?user=momita19&amp;theme=highcontrast&amp;border_radius=7&amp;card_width=600" alt="GitHub Streak" align="center" color="blue">
-
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=momita19&amp;theme=highcontrast&amp;border_radius=7&amp;card_width=600" alt="GitHub Streak">
+</div>
