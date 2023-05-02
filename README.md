@@ -30,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momita19" alt="Top Langs">
+<div>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=momita19&amp;theme=transparent&amp;show_icons=true" alt="Momita&#19;s GitHub stats"></p>
+  </div>
