@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=momita-19
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=momita-19&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=momita19&border_radius=7)](https://git.io/streak-stats)
 
 
