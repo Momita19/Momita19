@@ -24,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=momita19&theme=transparent&border_radius=7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=momita19&theme=vue&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 
