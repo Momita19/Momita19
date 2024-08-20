@@ -9,8 +9,8 @@
 
 ---
 
--✨ I'm Fullstack Enggineer by work, I was AI/ML & CV engineer by passion, follow me for exploring the vast Technology.
-- 👀 I’m interested in Artificial intelligence and Machine Learning
+- ✨ I'm Fullstack Engineer by work, I was AI/ML & CV engineer by passion, follow me for exploring the vast Technology.
+- 👀 I’m interested in Fullstack Website, Application, Artificial intelligence and Machine Learning
 - 🌱 I’m currently continuously learning Data structures and Fullstack development
 - 📫 Tech stack - nextjs, reactjs, typescript, javascript, mongodb, nodejs, expressjs...
 - 💞️ I’m looking to collaborate on anything...
