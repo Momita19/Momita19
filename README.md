@@ -9,10 +9,11 @@
 
 ---
 
--✨ I'm a AI/ML & CV engineer, follow me for exploring the vast AI.
+-✨ I'm Fullstack Enggineer by work, I was AI/ML & CV engineer by passion, follow me for exploring the vast Technology.
 - 👀 I’m interested in Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning Data structures and Backend development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently continuously learning Data structures and Fullstack development
+-📫 Tech stack - nextjs, reactjs, typescript, javascript, mongodb, nodejs, expressjs...
+- 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me on Linkedin - https://www.linkedin.com/in/momita-p-64ab451b4/
 
 
